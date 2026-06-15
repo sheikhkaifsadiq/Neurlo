@@ -1,5 +1,7 @@
 # Neurlo — AI That Thinks Before You Ask
 
+**Live App:** [https://neurlo.tech](https://neurlo.tech)
+
 Neurlo is a next-generation AI operating system designed for the professional workflow. It predicts needs, drafts actions, and connects your digital tools into a single cognitive unit.
 
 ## 🚀 Features & UI Architecture
